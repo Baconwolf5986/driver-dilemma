@@ -1,9 +1,24 @@
-# Setting Up And Running
+# Project Description
+### Problem Statement
+As self-driving cars become more prevalent engineers will inevitably have to face the ethical implications of unavoidable car accidents.
+If a driver is unable to avoid an accident and the only choices are to crash into a wall, a person or a group of people, what choice should they make? The driver would have to make this choice quickly on the road.
+Self-driving cars will also have to make this choice. Luckily, since self-driving cars are built by humans we have the advantage of making the choice long before an accident ever happens.
+### Our Solution
+This project aims to answer this question by presenting users with a series of scenarios. The user will have to choose what decision would be best for that situation. 
+We will keep track of the answers and the result of all the users' choices will be presented to see what the general consensus is.
+Hopefully these results will be informative to engineers and researchers, providing insight into what a majority of the people believe is an acceptable solution.
+
+# Setting Up Editing And Running
 1. Make sure you have [Node.js](https://nodejs.org/en) installed.
 2. Open a terminal and run 'git clone https://github.com/Baconwolf5986/driver-dilemma.git'
 3. Enter the directory by running 'cd driver-dilemma'
 4. Make changes to the website by editing the [src/App.js] file.
 5. In the driver-dilemma directory run 'npm start' to test the app (Read more starting at [Available Scripts](#available-scripts))
+
+# Planned Features (Maybe)
+- [ ] Website presenting the ethical dilemma and situations.
+- [ ] Situations presented as a game (Image map with buttons) or poll (Situation + Answers).
+- [ ] Reuslts of the users' choices presented in a graph (or other graphic).
 
 # Getting Started with Create React App
 
