@@ -10,10 +10,10 @@ Hopefully these results will be informative to engineers and researchers, provid
 
 # Setting Up Editing And Running
 1. Make sure you have [Node.js](https://nodejs.org/en) installed.
-2. Open a terminal and run 'git clone https://github.com/Baconwolf5986/driver-dilemma.git'
-3. Enter the directory by running 'cd driver-dilemma'
+2. Open a terminal and run `git clone https://github.com/Baconwolf5986/driver-dilemma.git`
+3. Enter the directory by running `cd driver-dilemma`
 4. Make changes to the website by editing the [src/App.js] file.
-5. In the driver-dilemma directory run 'npm start' to test the app (Read more starting at [Available Scripts](#available-scripts))
+5. In the driver-dilemma directory run `npm start` to test the app (Read more starting at [Available Scripts](#available-scripts))
 
 # Planned Features (Maybe)
 - [ ] Website presenting the ethical dilemma and situations.
