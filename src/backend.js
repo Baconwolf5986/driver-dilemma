@@ -35,7 +35,7 @@ async function incrementOption(situation, option) {
         await updateDoc(docRef, {
             [option]: increment(1)
         });
-        console.log('${option} incremented for ${situation}');
+        console.log(`${option} incremented for ${situation}`);
      } catch (error) {
          console.error("Error updating document: ", error);
      }
