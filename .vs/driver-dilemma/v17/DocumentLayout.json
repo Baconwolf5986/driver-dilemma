@@ -3,36 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\Graph.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Graph.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\backend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\backend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\ResultsPage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\ResultsPage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\ResultsPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\ResultsPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\SurveyPage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\SurveyPage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\HomePage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\HomePage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\components\\Navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\components\\Navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\PollSituation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\PollSituation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\Graph.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Graph.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\ResultsPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\ResultsPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\InteractiveImage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\InteractiveImage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\backend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\backend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\SurveyPage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\SurveyPage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\HomePage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -47,20 +67,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\components\\Navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\components\\Navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\components\\Navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\App.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -86,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 227,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
@@ -96,40 +104,40 @@
               "RelativeDocumentMoniker": "src\\pages\\ResultsPage.css",
               "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\ResultsPage.css",
               "RelativeToolTip": "src\\pages\\ResultsPage.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-19T14:31:47.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Graph.js",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\Graph.js",
               "RelativeDocumentMoniker": "src\\pages\\Graph.js",
               "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\Graph.js",
               "RelativeToolTip": "src\\pages\\Graph.js",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAwFgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-11-19T14:01:09.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "InteractiveImage.js",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\InteractiveImage.js",
               "RelativeDocumentMoniker": "src\\pages\\InteractiveImage.js",
               "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\InteractiveImage.js",
               "RelativeToolTip": "src\\pages\\InteractiveImage.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-11-19T04:58:46.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "HomePage.js",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\HomePage.js",
               "RelativeDocumentMoniker": "src\\pages\\HomePage.js",
@@ -142,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "SurveyPage.js",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\SurveyPage.js",
               "RelativeDocumentMoniker": "src\\pages\\SurveyPage.js",
@@ -155,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Navbar.js",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\components\\Navbar.js",
               "RelativeDocumentMoniker": "src\\pages\\components\\Navbar.js",
@@ -170,76 +178,89 @@
         },
         {
           "DockedWidth": 227,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "backend.js",
-              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\backend.js",
-              "RelativeDocumentMoniker": "src\\pages\\backend.js",
-              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\backend.js",
-              "RelativeToolTip": "src\\pages\\backend.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-19T14:05:22.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PollSituation.js",
-              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\PollSituation.js",
-              "RelativeDocumentMoniker": "src\\pages\\PollSituation.js",
-              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\PollSituation.js",
-              "RelativeToolTip": "src\\pages\\PollSituation.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-19T14:05:32.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ResultsPage.js",
-              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\ResultsPage.js",
-              "RelativeDocumentMoniker": "src\\pages\\ResultsPage.js",
-              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\ResultsPage.js",
-              "RelativeToolTip": "src\\pages\\ResultsPage.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-12T17:05:56.938Z",
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\styles.css",
+              "RelativeDocumentMoniker": "src\\styles.css",
+              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-19T15:17:03.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-19T15:16:57.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HomePage.css",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\HomePage.css",
               "RelativeDocumentMoniker": "src\\pages\\HomePage.css",
               "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\HomePage.css",
               "RelativeToolTip": "src\\pages\\HomePage.css",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFIAAAAYAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-13T18:41:25.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "SurveyPage.css",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\SurveyPage.css",
               "RelativeDocumentMoniker": "src\\pages\\SurveyPage.css",
               "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\SurveyPage.css",
               "RelativeToolTip": "src\\pages\\SurveyPage.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-18T23:47:12.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "backend.js",
+              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\backend.js",
+              "RelativeDocumentMoniker": "src\\pages\\backend.js",
+              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\backend.js",
+              "RelativeToolTip": "src\\pages\\backend.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-19T14:05:22.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Navbar.css",
+              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\components\\Navbar.css",
+              "RelativeDocumentMoniker": "src\\pages\\components\\Navbar.css",
+              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\components\\Navbar.css",
+              "RelativeToolTip": "src\\pages\\components\\Navbar.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T14:28:41.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.js",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\App.js",
               "RelativeDocumentMoniker": "src\\App.js",
@@ -252,20 +273,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Navbar.css",
-              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\components\\Navbar.css",
-              "RelativeDocumentMoniker": "src\\pages\\components\\Navbar.css",
-              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\components\\Navbar.css",
-              "RelativeToolTip": "src\\pages\\components\\Navbar.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "DocumentIndex": 4,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-14T14:28:41.512Z",
+              "WhenOpened": "2024-11-05T16:42:37.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
+              "Title": "PollSituation.js",
+              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\PollSituation.js",
+              "RelativeDocumentMoniker": "src\\pages\\PollSituation.js",
+              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\PollSituation.js",
+              "RelativeToolTip": "src\\pages\\PollSituation.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-19T14:05:32.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResultsPage.js",
+              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\ResultsPage.js",
+              "RelativeDocumentMoniker": "src\\pages\\ResultsPage.js",
+              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\pages\\ResultsPage.js",
+              "RelativeToolTip": "src\\pages\\ResultsPage.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T17:05:56.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\public\\index.html",
               "RelativeDocumentMoniker": "public\\index.html",
@@ -273,11 +320,12 @@
               "RelativeToolTip": "public\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-13T19:34:39.903Z"
+              "WhenOpened": "2024-11-13T19:34:39.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "PollSituation.js",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\PollSituation.js",
               "RelativeDocumentMoniker": "src\\PollSituation.js",
@@ -289,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\index.js",
               "RelativeDocumentMoniker": "src\\index.js",
@@ -297,11 +345,12 @@
               "RelativeToolTip": "src\\index.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-12T16:49:35.303Z"
+              "WhenOpened": "2024-11-12T16:49:35.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "backend.js",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\backend.js",
               "RelativeDocumentMoniker": "src\\backend.js",
@@ -313,19 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.css",
-              "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\App.css",
-              "RelativeDocumentMoniker": "src\\App.css",
-              "ToolTip": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\App.css",
-              "RelativeToolTip": "src\\App.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-05T16:42:37.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "App.test.js",
               "DocumentMoniker": "C:\\Users\\Ancis\\Desktop\\Classes_Fall_2024\\EGS4034\\driver-dilemma\\src\\App.test.js",
               "RelativeDocumentMoniker": "src\\App.test.js",
@@ -333,7 +370,8 @@
               "RelativeToolTip": "src\\App.test.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-05T16:40:38.616Z"
+              "WhenOpened": "2024-11-05T16:40:38.616Z",
+              "EditorCaption": ""
             }
           ]
         }
