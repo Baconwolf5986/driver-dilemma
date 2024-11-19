@@ -1,0 +1,11 @@
+.Results {
+    display: flex;
+    flex-direction: row;
+    background-color: #222;
+    color: white;
+}
+
+.graph {
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+}

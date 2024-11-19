@@ -1,0 +1,42 @@
+﻿.Navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Pushes items to opposite ends */
+    background-color: #222;
+    padding: 10px 20px; /* Add horizontal padding for spacing */
+    box-sizing: border-box; /* Ensure padding doesn’t affect width */
+    color: #CCCCCC;
+    width: 100%;
+}
+
+.NavbarHome {
+    color: #CCCCCC;
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: bold;
+    transition: color 0.3s;
+    padding-left: 10rem;
+    width: 20%;
+}
+.NavbarHome:hover {
+    color: #3333B4;
+}
+
+.NavbarLinks {
+    display: flex;
+    gap: 1rem; /* Space between the links */
+    padding-right: 10rem;
+}
+
+.NavbarLink {
+    color: #CCCCCC;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: color 0.3s;
+    padding: 20px;
+}
+
+.NavbarLink:hover {
+    color: #3333B4;
+}

@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\public",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\components",
+    "\\src\\pages\\images"
   ],
-  "SelectedNode": "\\src\\backend.js",
+  "SelectedNode": "\\src\\pages\\ResultsPage.css",
   "PreviewInSolutionExplorer": false
 }
