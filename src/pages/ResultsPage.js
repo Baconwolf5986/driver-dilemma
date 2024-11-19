@@ -12,8 +12,8 @@ function Results() {
 
     return (
         <div className="Results">
-            <BarGraph className="graph"/>
-            <BarGraph className="graph"/>
+            <BarGraph/>
+            <BarGraph/>
         </div>
     );
 }

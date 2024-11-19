@@ -39,8 +39,8 @@
     position: relative;
     clip-path: polygon(0 0, 0 60%, 50% 100%, 100% 60%, 100% 0);
     background-image: url('images/selfDriving.png');
-    background-size: cover; /* Ensures the background image covers the entire area */
-    background-position: top; /* Centers the background image */
+    background-size: cover;
+    background-position: top;
 }
 
 .Problem-Text {
@@ -51,13 +51,9 @@
     text-align: center;
 }
 
-// <uniquifier > : Use a unique and descriptive class name
-// <weight > : Use a value from 100 to 900
-
 .geist-mono {
     font-family: "Geist Mono", monospace;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
 }
 
@@ -65,7 +61,6 @@
     position: relative;
     font-family: "Geist", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
 }
 

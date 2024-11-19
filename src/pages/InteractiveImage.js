@@ -20,7 +20,6 @@ function InteractiveImage({ filename }) {
 
     return (
         <div>
-            {/* Render the current image */}
             <img
                 src={currentImage}
                 alt="Interactive"

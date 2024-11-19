@@ -1,10 +1,10 @@
 ﻿.Navbar {
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Pushes items to opposite ends */
+    justify-content: space-between;
     background-color: #222;
-    padding: 10px 20px; /* Add horizontal padding for spacing */
-    box-sizing: border-box; /* Ensure padding doesn’t affect width */
+    padding: 10px 20px;
+    box-sizing: border-box;
     color: #CCCCCC;
     width: 100%;
 }
@@ -24,7 +24,7 @@
 
 .NavbarLinks {
     display: flex;
-    gap: 1rem; /* Space between the links */
+    gap: 1rem;
     padding-right: 10rem;
 }
 
