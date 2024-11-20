@@ -1,6 +1,6 @@
 # Project Description
 ### Problem Statement
-As self-driving cars become more prevalent engineers will inevitably have to face the ethical implications of unavoidable car accidents.
+Human lives are at risk, and human discrimination is impacted by AI models used for autonomous vehicles in challenging ethical vehicular-crash situations and decisions. As self-driving cars become more prevalent engineers will inevitably have to face the ethical implications of unavoidable car accidents.
 If a driver is unable to avoid an accident and the only choices are to crash into a wall, a person or a group of people, what choice should they make? The driver would have to make this choice quickly on the road.
 Self-driving cars will also have to make this choice. Luckily, since self-driving cars are built by humans we have the advantage of making the choice long before an accident ever happens.
 ### Our Solution
