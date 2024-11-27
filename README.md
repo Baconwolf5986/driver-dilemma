@@ -15,10 +15,11 @@ Hopefully these results will be informative to engineers and researchers, provid
 4. Make changes to the website by editing the [src/App.js] file.
 5. In the driver-dilemma directory run `npm start` to test the app (Read more starting at [Available Scripts](#available-scripts))
 
-# Planned Features (Maybe)
-- [ ] Website presenting the ethical dilemma and situations.
-- [ ] Situations presented as a game (Image map with buttons) or poll (Situation + Answers).
-- [ ] Reuslts of the users' choices presented in a graph (or other graphic).
+# Planned Features
+- [x] Website presenting the ethical dilemma and situations.
+- [x] Situations presented as a game (Image map with buttons) or poll (Situation + Answers).
+- [x] Results of the users' choices presented in a bar graph. (Using firestore and chartjs)
+- [ ] Prevent multiple votes from the same user. (Using localstorage)
 
 # Getting Started with Create React App
 
