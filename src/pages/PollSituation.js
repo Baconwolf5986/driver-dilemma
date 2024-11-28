@@ -6,9 +6,9 @@ import { pollData, incrementOption } from './backend';
 
 function PollSituation({ situation }) {
     const [pollResults, setPollResults] = useState({
-        Option1_Result: 0,
-        Option2_Result: 0,
-        Option3_Result: 0
+        Option1: 0,
+        Option2: 0,
+        Option3: 0
     });
 
     useEffect(() => {
@@ -32,14 +32,14 @@ function PollSituation({ situation }) {
     return (
         <div>
             <h2>What should the driver do?</h2>
-            <button onClick={() => handleVote("Option1_Result")}>Option 1</button>
-            <button onClick={() => handleVote("Option2_Result")}>Option 2</button>
-            <button onClick={() => handleVote("Option3_Result")}>Option 3</button>
+            <button onClick={() => handleVote("Option1")}>Option 1</button>
+            <button onClick={() => handleVote("Option2")}>Option 2</button>
+            <button onClick={() => handleVote("Option3")}>Option 3</button>
 
             <h2>Results:</h2>
-            <p>Option 1: {pollResults?.Option1_Result ?? 0}</p>
-            <p>Option 2: {pollResults?.Option2_Result ?? 0}</p>
-            <p>Option 3: {pollResults?.Option3_Result ?? 0}</p>
+            <p>Option 1: {pollResults?.Option1 ?? 0}</p>
+            <p>Option 2: {pollResults?.Option2 ?? 0}</p>
+            <p>Option 3: {pollResults?.Option3 ?? 0}</p>
         </div>
     );
 }

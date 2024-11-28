@@ -7,6 +7,16 @@
     align-items: center;
     width: 100%;
     justify-content: start;
+    text-align: left;
+}
+
+.CONTEXT {
+    text-align: center;
+    width: 60%;
+}
+
+.choice {
+    width: 60%;
 }
 
 .ProblemSection {
@@ -87,6 +97,16 @@
     background-image: url('images/selfDriving.png');
     background-size: cover;
     background-position: center;
+}
+
+.Solution-Next {
+    color: #3d899f;
+    margin: 0px;
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: 20px;
+    width: 65%;
+    text-align: center;
 }
 
 .Solution-Text {

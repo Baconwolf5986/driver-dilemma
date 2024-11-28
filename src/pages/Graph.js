@@ -4,6 +4,7 @@ import { Bar } from "react-chartjs-2";
 import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend } from "chart.js";
 import { pollData } from './backend';
 import { doc, getData, onSnapshot } from 'firebase/firestore';
+import './ResultsPage.css'
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
@@ -16,16 +17,22 @@ const backgroundColorPlugin = {
     },
 };
 
-const BarGraph = () => {
+const BarGraph = (
+    { situation ,
+     graphTitle ,
+     choiceTitle1 ,
+     choiceTitle2,
+     choiceTitle3 }
+      ) => {
     // Get data from database
     const [pollResults, setPollResults] = useState({
-        Option1_Result: 0,
-        Option2_Result: 0,
-        Option3_Result: 0
+        Option1: 0,
+        Option2: 0,
+        Option3: 0
     });
 
     useEffect(() => {
-        const docRef = doc(pollData, "DriverDilemmaQuestionResult", "situation_1_result");
+        const docRef = doc(pollData, "DriverDilemmaQuestionResult", situation);
 
         const unsubscribe = onSnapshot(docRef, (docSnapshot) => {
             if (docSnapshot.exists()) {
@@ -39,11 +46,11 @@ const BarGraph = () => {
     });
 
     const chartData = {
-        labels: ['Chose to hit the pole', 'Chose to hit the group', 'Chose to hit the single person'],
+        labels: [choiceTitle1, choiceTitle2, choiceTitle3],
         datasets: [
             {
-                label: 'Situation 1: User Count',
-                data: [pollResults.Option1_Result, pollResults.Option2_Result, pollResults.Option3_Result],
+                label: graphTitle,
+                data: [pollResults.Option1, pollResults.Option2, pollResults.Option3],
                 backgroundColor: 'rgb(133,235,217)',
             },
         ],
@@ -60,22 +67,30 @@ const BarGraph = () => {
             },
             title: {
                 display: true,
-                text: 'Situation 1: Group vs Solo',
+                text: graphTitle,
                 font: {
                     size: 35,
                 },
                 color: 'white',
             },
         },
-            scales: {
-                x: {
-                    ticks: {
-                        color: 'white',
-                        font: {
-                            size: 20,
-                        },
+        scales: {
+            x: {
+                ticks: {
+                    color: 'white',
+                    font: {
+                        size: 18,
                     },
                 },
+            },
+            y: {
+                ticks: {
+                    color: 'white',
+                    font: {
+                        size: 17,
+                    },
+                   },
+                }
         },
         layout: {
             padding: {
@@ -89,7 +104,11 @@ const BarGraph = () => {
         },
     };
 
-    return <Bar data={chartData} options={options} plugins={[backgroundColorPlugin]} />;
+    return (
+        <div className="graph">
+        <Bar data={chartData} options={options} plugins={[backgroundColorPlugin]} />
+        </div>
+            );
 };
 
 export default BarGraph;

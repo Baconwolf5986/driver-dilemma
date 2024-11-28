@@ -27,7 +27,7 @@ export { pollData };
 // Function to increment the selected option
 // ARGUMENTS:
 // situation (string): The situation name in firestore (eg. situation1_result)
-// option (string): The option to increment in firestore (Option1_result)
+// option (string): The option to increment in firestore (Option1)
 async function incrementOption(situation, option) {
     const docRef = doc(pollData, "DriverDilemmaQuestionResult", situation);
 
