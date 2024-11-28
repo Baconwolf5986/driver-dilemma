@@ -31,7 +31,7 @@ function Home() {
                     Click the button below to begin the survey.
                 </p>
                 <p className="Solution-Next">
-                    &lt;NOTE: This survey works best on the phone.&gt;
+                    &lt;NOTE: This survey works best on the computer.&gt;
                 </p>
             </div>
             <Link to='/survey' className='SurveyButton'> TAKE THE SURVEY     </Link> 
