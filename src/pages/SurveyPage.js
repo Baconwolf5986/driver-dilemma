@@ -89,7 +89,7 @@ function Survey() {
                 The AV is going straight towards a group of people and sees a single pedestrian in the other lane. The AV can make one of the following choices.  
             </p>
             <p className="choice">
-                1. Turn and hit the pole.
+                1. Turn and hit the pole (endangering the passenger).
             </p>
             <p className="choice">
                 2. Continue forward and hit the group of people.
@@ -117,7 +117,7 @@ function Survey() {
                     The AV is going straight towards a small child and sees an old man in the other lane. The AV can make one of the following choices.
                 </p>
                 <p className="choice">
-                    1. Turn and hit the pole.
+                    1. Turn and hit the pole (endangering the passenger).
                 </p>
                 <p className="choice">
                     2. Continue forward and hit the child.
@@ -144,7 +144,7 @@ function Survey() {
                     The AV is going straight towards a pregnant woman and sees a couple in the other lane. The AV can make one of the following choices.
                 </p>
                 <p className="choice">
-                    1. Turn and hit the pole.
+                    1. Turn and hit the pole (endangering the passenger).
                 </p>
                 <p className="choice">
                     2. Continue forward and hit the pregnant woman.
